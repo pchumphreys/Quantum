@@ -1,0 +1,248 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.4' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      7516,        240]
+NotebookOptionsPosition[      6534,        202]
+NotebookOutlinePosition[      6887,        218]
+CellTagsIndexPosition[      6844,        215]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["Current parameters:", "Text",
+ CellChangeTimes->{{3.682063204265799*^9, 3.682063207233884*^9}}],
+
+Cell["\<\
+EOM has 500:1 extinction ratio, and we use require about 10 nW with the EOM \
+off, therefore about 5 muW.\
+\>", "Text",
+ CellChangeTimes->{{3.682222598876012*^9, 3.6822226451133347`*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"PulseCountsPer\[Mu]W", "=", 
+   RowBox[{"5.*^-4", "/", "5"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"PulseDuration\[Mu]S", "=", "2.*^-3"}], ";"}], 
+  "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
+ RowBox[{"CountsPer\[Mu]s\[Mu]W", "=", 
+  RowBox[{"PulseCountsPer\[Mu]W", "/", "PulseDuration\[Mu]S"}]}]}], "Input",
+ CellChangeTimes->{{3.68206268778132*^9, 3.6820627298360786`*^9}, {
+  3.6820631691789427`*^9, 3.68206321026617*^9}, {3.682063337105104*^9, 
+  3.6820634276616287`*^9}}],
+
+Cell[BoxData["0.05`"], "Output",
+ CellChangeTimes->{{3.682063408924376*^9, 3.682063430368569*^9}}]
+}, Open  ]],
+
+Cell["\<\
+ 100 ns dead time for apd. So probably shouldn\[CloseCurlyQuote]t have much \
+more than one photon per \[Mu]s. 
+
+How much power do we need for this?\
+\>", "Text",
+ CellChangeTimes->{{3.682063212121459*^9, 3.682063276512156*^9}, {
+  3.682063539938545*^9, 3.68206356599514*^9}, {3.682064886278924*^9, 
+  3.682064892516308*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"\[Mu]WsToSaturateAPDs", "=", 
+  RowBox[{"1", "/", 
+   RowBox[{"(", "CountsPer\[Mu]s\[Mu]W", ")"}]}]}]], "Input",
+ CellChangeTimes->{{3.682063306000586*^9, 3.682063310978982*^9}, {
+  3.682063457525128*^9, 3.682063472858728*^9}, {3.68206350309208*^9, 
+  3.6820635566106*^9}}],
+
+Cell[BoxData["20.`"], "Output",
+ CellChangeTimes->{{3.682063331022971*^9, 3.6820633427248898`*^9}, {
+  3.682063469090559*^9, 3.6820634731457577`*^9}, {3.68206352927217*^9, 
+  3.682063557393165*^9}}]
+}, Open  ]],
+
+Cell["\<\
+20 \[Mu]W isnt so much. Although maybe would be concerned when it comes to \
+free charges etc. Something to check.
+
+How many photons do we need to estimate phase?\
+\>", "Text",
+ CellChangeTimes->{{3.6820635669773283`*^9, 3.6820635710673647`*^9}, {
+  3.682063752341361*^9, 3.6820637558216963`*^9}, {3.68206384399514*^9, 
+  3.682063849378477*^9}, {3.682064895724379*^9, 3.682064932803775*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"numPhotons", "=", "100."}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  FractionBox["180", "\[Pi]"], 
+  RowBox[{"(", 
+   RowBox[{"phaseError", "=", 
+    RowBox[{"1", "/", 
+     SqrtBox["numPhotons"]}]}], ")"}]}], "\[IndentingNewLine]", 
+ RowBox[{"fid", "=", 
+  RowBox[{"1", "-", 
+   RowBox[{
+    FractionBox["1", "4"], 
+    SuperscriptBox["phaseError", "2"]}]}]}]}], "Input",
+ CellChangeTimes->{{3.682063758323977*^9, 3.682063768917552*^9}, {
+   3.682063815596447*^9, 3.682063826028224*^9}, {3.682063858147896*^9, 
+   3.682063887299223*^9}, {3.68206450949328*^9, 3.6820645776221943`*^9}, 
+   3.682064689146049*^9, {3.682064852632402*^9, 3.682064865973854*^9}, {
+   3.682068762318097*^9, 3.6820687730612183`*^9}}],
+
+Cell[BoxData["5.729577951308232`"], "Output",
+ CellChangeTimes->{{3.6820645452565327`*^9, 3.682064578207632*^9}, 
+   3.682064692693165*^9, {3.682064853048518*^9, 3.68206486627982*^9}, 
+   3.68206877375731*^9}],
+
+Cell[BoxData["0.9975`"], "Output",
+ CellChangeTimes->{{3.6820645452565327`*^9, 3.682064578207632*^9}, 
+   3.682064692693165*^9, {3.682064853048518*^9, 3.68206486627982*^9}, 
+   3.682068773767371*^9}]
+}, Open  ]],
+
+Cell["\<\
+At least 100 photons would be good. So about 100 mus to estimate phase after \
+a click. \
+\>", "Text",
+ CellChangeTimes->{{3.6820649545710487`*^9, 3.6820649750186863`*^9}}],
+
+Cell["\<\
+Just cus I feel like idiot checking that even a simple estimator can saturate \
+the bound:\
+\>", "Text",
+ CellChangeTimes->{{3.682068025497793*^9, 3.682068038857606*^9}}],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"out1StD", "=", 
+   SqrtBox[
+    RowBox[{"n", " ", 
+     SuperscriptBox[
+      RowBox[{"Cos", "[", "\[Theta]", "]"}], "2"]}]]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"out2StD", "=", 
+   SqrtBox[
+    RowBox[{"n", " ", 
+     SuperscriptBox[
+      RowBox[{"Sin", "[", "\[Theta]", "]"}], "2"]}]]}], ";"}]}], "Input",
+ CellChangeTimes->{{3.682066930109949*^9, 3.6820669956542*^9}, {
+  3.6820679825095863`*^9, 3.682067994418432*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"thetaEst", "=", 
+   RowBox[{"ArcCos", "[", 
+    SqrtBox[
+     FractionBox["out1", 
+      RowBox[{"out1", "+", "out2"}]]], "]"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.682067737380497*^9, 3.6820678068631783`*^9}, {
+  3.682067852392417*^9, 3.682067861918079*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"error", "=", 
+  RowBox[{"FullSimplify", "[", 
+   RowBox[{
+    SqrtBox[
+     RowBox[{
+      RowBox[{
+       SuperscriptBox[
+        RowBox[{"(", 
+         RowBox[{"FullSimplify", "@", 
+          RowBox[{"D", "[", 
+           RowBox[{"thetaEst", ",", "out1"}], "]"}]}], ")"}], "2"], 
+       SuperscriptBox["out1StD", "2"]}], "+", 
+      RowBox[{
+       SuperscriptBox[
+        RowBox[{"(", 
+         RowBox[{"FullSimplify", "@", 
+          RowBox[{"D", "[", 
+           RowBox[{"thetaEst", ",", "out2"}], "]"}]}], ")"}], "2"], 
+       SuperscriptBox["out2StD", "2"]}]}]], "/.", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"out1", "->", 
+       RowBox[{"n", " ", 
+        SuperscriptBox[
+         RowBox[{"Cos", "[", "\[Theta]", "]"}], "2"]}]}], ",", 
+      RowBox[{"out2", "\[Rule]", 
+       RowBox[{"n", " ", 
+        SuperscriptBox[
+         RowBox[{"Sin", "[", "\[Theta]", "]"}], "2"]}]}]}], "}"}]}], 
+   "]"}]}]], "Input",
+ CellChangeTimes->{{3.6820678088080873`*^9, 3.682067944460663*^9}, {
+  3.682067999388639*^9, 3.6820680081866407`*^9}}],
+
+Cell[BoxData[
+ FractionBox[
+  SqrtBox[
+   FractionBox["1", "n"]], "2"]], "Output",
+ CellChangeTimes->{{3.682067817954678*^9, 3.6820678274160137`*^9}, {
+   3.682067891012477*^9, 3.6820679024695168`*^9}, 3.682067947896003*^9, 
+   3.682068008751247*^9}]
+}, Open  ]]
+},
+WindowSize->{983, 910},
+WindowMargins->{{4, Automatic}, {Automatic, 4}},
+FrontEndVersion->"10.4 for Mac OS X x86 (32-bit, 64-bit Kernel) (April 11, \
+2016)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 101, 1, 30, "Text"],
+Cell[662, 23, 197, 4, 30, "Text"],
+Cell[CellGroupData[{
+Cell[884, 31, 546, 12, 80, "Input"],
+Cell[1433, 45, 98, 1, 28, "Output"]
+}, Open  ]],
+Cell[1546, 49, 335, 8, 68, "Text"],
+Cell[CellGroupData[{
+Cell[1906, 61, 297, 6, 28, "Input"],
+Cell[2206, 69, 198, 3, 28, "Output"]
+}, Open  ]],
+Cell[2419, 75, 401, 8, 68, "Text"],
+Cell[CellGroupData[{
+Cell[2845, 87, 747, 18, 105, "Input"],
+Cell[3595, 107, 209, 3, 28, "Output"],
+Cell[3807, 112, 199, 3, 28, "Output"]
+}, Open  ]],
+Cell[4021, 118, 182, 4, 30, "Text"],
+Cell[4206, 124, 180, 4, 30, "Text"],
+Cell[4389, 130, 479, 15, 70, "Input"],
+Cell[4871, 147, 299, 8, 56, "Input"],
+Cell[CellGroupData[{
+Cell[5195, 159, 1070, 32, 73, "Input"],
+Cell[6268, 193, 250, 6, 73, "Output"]
+}, Open  ]]
+}
+]
+*)
+
