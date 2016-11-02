@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    137044,       3483]
-NotebookOptionsPosition[    134403,       3390]
-NotebookOutlinePosition[    134757,       3406]
-CellTagsIndexPosition[    134714,       3403]
+NotebookDataLength[    111594,       2791]
+NotebookOptionsPosition[    108994,       2700]
+NotebookOutlinePosition[    109348,       2716]
+CellTagsIndexPosition[    109305,       2713]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -31,8 +31,6 @@ Cell[BoxData[
  CellChangeTimes->{{3.669622303888039*^9, 3.6696223142992983`*^9}, 
    3.669622547593651*^9}],
 
-Cell[CellGroupData[{
-
 Cell[BoxData[{
  RowBox[{
   RowBox[{"Needs", "[", "\"\<QDENSITY`Qdensity`\>\"", "]"}], 
@@ -46,13 +44,6 @@ Cell[BoxData[{
    3.669615637840352*^9, 3.6696156384778433`*^9}, {3.6696169979826393`*^9, 
    3.6696170074136553`*^9}, {3.66961712203467*^9, 3.669617122405983*^9}, {
    3.669621269050124*^9, 3.669621274147662*^9}}],
-
-Cell[BoxData["\<\"Type \\\"?intro\\\", \\\"?QDENSITY`Qdensity`*\\\" or \
-\\\"?about for help.\"\>"], "Print",
- CellChangeTimes->{3.6701331159705276`*^9, 3.670669038504182*^9, 
-  3.671875981208324*^9, 3.6721190711604*^9, 3.672940616733959*^9, 
-  3.677405860544757*^9, 3.680668434423808*^9}]
-}, Open  ]],
 
 Cell[CellGroupData[{
 
@@ -117,441 +108,443 @@ Cell[BoxData[
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"about", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"about", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["ControlledZ",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"ControlledZ", "QDENSITY`Qdensity`"}},
-          
+           "Info5253686984594-2411130", {"ControlledZ", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Hadamard",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Hadamard", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Hadamard", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["MeasureKet",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"MeasureKet", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"MeasureKet", "QDENSITY`Qdensity`"}},
+          
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["PTr",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"PTr", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"PTr", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["rcsDate",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"rcsDate", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"rcsDate", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Sigma3",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Sigma3", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Sigma3", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["TwoOp",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"TwoOp", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"TwoOp", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["\[Rho]",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"\[Rho]", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"\[Rho]", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"]},
         {
          ButtonBox["Adj",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Adj", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Adj", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["CPHASE",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"CPHASE", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"CPHASE", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["HALL",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"HALL", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"HALL", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["MultiProjCBasis",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {
+           "Info5253686984594-2411130", {
             "MultiProjCBasis", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["PTrGen",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"PTrGen", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"PTrGen", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["rcsRevision",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"rcsRevision", "QDENSITY`Qdensity`"}},
-          
+           "Info5253686984594-2411130", {"rcsRevision", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Snos",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Snos", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Snos", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["U",
           BaseStyle->"InformationLink",
           ButtonData:>{
-           "Info113680675635-2965170", {"U", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"U", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["\[Rho]$",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"\[Rho]$", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"\[Rho]$", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"]},
         {
          ButtonBox["AF",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"AF", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"AF", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["CPHASEV",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"CPHASEV", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"CPHASEV", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["i8",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"i8", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"i8", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["MultiQProj",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"MultiQProj", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"MultiQProj", "QDENSITY`Qdensity`"}},
+          
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Purity",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Purity", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Purity", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["res1",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"res1", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"res1", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["SP",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"SP", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"SP", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["v",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"v", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"v", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["\[Sigma]",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"\[Sigma]", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"\[Sigma]", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"]},
         {
          ButtonBox["at",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"at", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"at", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["cRQN",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"cRQN", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"cRQN", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["intro",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"intro", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"intro", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Mutual",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Mutual", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Mutual", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["PX",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"PX", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"PX", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["res1$",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"res1$", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"res1$", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Spin",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Spin", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Spin", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Vs",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Vs", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Vs", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["\[Phi]A1",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"\[Phi]A1", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"\[Phi]A1", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"]},
         {
          ButtonBox["Bra1",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Bra1", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Bra1", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Definef",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Definef", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Definef", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["j8",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"j8", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"j8", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["nb",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"nb", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"nb", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["PY",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"PY", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"PY", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["res2",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"res2", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"res2", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["SpinObs",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"SpinObs", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"SpinObs", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["v$",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"v$", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"v$", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["\[Phi]A2",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"\[Phi]A2", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"\[Phi]A2", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"]},
         {
          ButtonBox["BraV",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"BraV", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"BraV", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["density",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"density", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"density", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Ket1",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Ket1", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Ket1", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["neg",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"neg", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"neg", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["qubit",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"qubit", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"qubit", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["res2$",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"res2$", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"res2$", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["stA",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"stA", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"stA", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["ws",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"ws", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"ws", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["\[Phi]B1",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"\[Phi]B1", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"\[Phi]B1", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"]},
         {
          ButtonBox["BraX",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"BraX", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"BraX", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["DForm2",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"DForm2", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"DForm2", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["KetV",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"KetV", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"KetV", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["nneg",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"nneg", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"nneg", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["RandomBra1",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"RandomBra1", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"RandomBra1", "QDENSITY`Qdensity`"}},
+          
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Rotqbit",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Rotqbit", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Rotqbit", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["stB",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"stB", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"stB", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["xb",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"xb", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"xb", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["\[Phi]B2",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"\[Phi]B2", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"\[Phi]B2", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"]},
         {
          ButtonBox["BraY",
           BaseStyle->"InformationLink",
           ButtonData:>{
-           "Info113680675635-2965170", {"BraY", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"BraY", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Discord",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Discord", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Discord", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["KetX",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"KetX", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"KetX", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["nq",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"nq", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"nq", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["RandomBra2",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"RandomBra2", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"RandomBra2", "QDENSITY`Qdensity`"}},
+          
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["RotX",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"RotX", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"RotX", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Swap",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Swap", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Swap", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Xb",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Xb", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Xb", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["\[CapitalOmega]s",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {
+           "Info5253686984594-2411130", {
             "\[CapitalOmega]s", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"]},
         {
@@ -559,248 +552,255 @@ Cell[BoxData[
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"CNOT", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"CNOT", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["EnTropy",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"EnTropy", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"EnTropy", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["KetY",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"KetY", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"KetY", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Observables",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Observables", "QDENSITY`Qdensity`"}},
-          
+           "Info5253686984594-2411130", {"Observables", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["RandomBraN",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"RandomBraN", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"RandomBraN", "QDENSITY`Qdensity`"}},
+          
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["RotY",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"RotY", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"RotY", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["s$",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"s$", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"s$", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["xd",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"xd", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"xd", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], ""},
         {
          ButtonBox["Coeff",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Coeff", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Coeff", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["EnTropy2",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"EnTropy2", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"EnTropy2", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["look",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"look", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"look", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["OneOp",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"OneOp", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"OneOp", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["RandomKet1",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"RandomKet1", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"RandomKet1", "QDENSITY`Qdensity`"}},
+          
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["RotZ",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"RotZ", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"RotZ", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["TensorProductQ",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {
+           "Info5253686984594-2411130", {
             "TensorProductQ", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Xd",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Xd", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Xd", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], ""},
         {
          ButtonBox["Comm",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Comm", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Comm", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Fidelity",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Fidelity", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Fidelity", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["matrices",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"matrices", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"matrices", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Oracle",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Oracle", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Oracle", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["RandomKet2",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"RandomKet2", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"RandomKet2", "QDENSITY`Qdensity`"}},
+          
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["s",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"s", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"s", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["ThreeOp",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"ThreeOp", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"ThreeOp", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["ZeroMatrix",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"ZeroMatrix", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"ZeroMatrix", "QDENSITY`Qdensity`"}},
+          
           ButtonNote->"QDENSITY`Qdensity`"], ""},
         {
          ButtonBox["CompMeasureKet",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {
+           "Info5253686984594-2411130", {
             "CompMeasureKet", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["FidelityB",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"FidelityB", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"FidelityB", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["mc",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"mc", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"mc", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["PartialTrace",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"PartialTrace", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {
+            "PartialTrace", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["RandomKetN",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"RandomKetN", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"RandomKetN", "QDENSITY`Qdensity`"}},
+          
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Schmidt",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Schmidt", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Schmidt", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["to",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"to", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"to", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["ZeroT",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"ZeroT", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"ZeroT", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], ""},
         {
          ButtonBox["CompPTr",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"CompPTr", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"CompPTr", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["for",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"for", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"for", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["mcl",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"mcl", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"mcl", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["PartialTraceGen",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {
+           "Info5253686984594-2411130", {
             "PartialTraceGen", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["RandomQubit1",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"RandomQubit1", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {
+            "RandomQubit1", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Sigma0",
           BaseStyle->"InformationLink",
+          
           ButtonData:>{
-           "Info113680675635-2965170", {"Sigma0", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Sigma0", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Toffoli",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Toffoli", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Toffoli", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["\[ScriptCapitalH]",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {
+           "Info5253686984594-2411130", {
             "\[ScriptCapitalH]", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], ""},
         {
@@ -808,50 +808,51 @@ Cell[BoxData[
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"ControlledX", "QDENSITY`Qdensity`"}},
-          
+           "Info5253686984594-2411130", {"ControlledX", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["had",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"had", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"had", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["mcl$",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"mcl$", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"mcl$", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["PartialTranspose",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {
+           "Info5253686984594-2411130", {
             "PartialTranspose", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["RandomQubit2",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"RandomQubit2", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {
+            "RandomQubit2", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Sigma1",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Sigma1", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Sigma1", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["ts",
           BaseStyle->"InformationLink",
+          
           ButtonData:>{
-           "Info113680675635-2965170", {"ts", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"ts", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["\[ScriptCapitalP]",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {
+           "Info5253686984594-2411130", {
             "\[ScriptCapitalP]", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], ""},
         {
@@ -859,49 +860,50 @@ Cell[BoxData[
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"ControlledY", "QDENSITY`Qdensity`"}},
-          
+           "Info5253686984594-2411130", {"ControlledY", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Had",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Had", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Had", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["mc$",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"mc$", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"mc$", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["ProjG",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"ProjG", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"ProjG", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["RandomQubitN",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"RandomQubitN", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {
+            "RandomQubitN", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["Sigma2",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"Sigma2", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"Sigma2", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["ts$",
           BaseStyle->"InformationLink",
           
           ButtonData:>{
-           "Info113680675635-2965170", {"ts$", "QDENSITY`Qdensity`"}},
+           "Info5253686984594-2411130", {"ts$", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], 
          ButtonBox["\[DoubleStruckCapitalI]",
           BaseStyle->"InformationLink",
+          
           ButtonData:>{
-           "Info113680675635-2965170", {
+           "Info5253686984594-2411130", {
             "\[DoubleStruckCapitalI]", "QDENSITY`Qdensity`"}},
           ButtonNote->"QDENSITY`Qdensity`"], ""}
        },
@@ -912,7 +914,7 @@ Cell[BoxData[
     GridBoxAlignment->{"Columns" -> {{Left}}, "Rows" -> {{Baseline}}}]}, 
    Dynamic[Typeset`open$$],
    ImageSize->Automatic]]], "Print", "InfoCell",
- CellChangeTimes->{3.680668435528593*^9}]
+ CellChangeTimes->{3.6869809941252613`*^9}]
 }, Open  ]]
 }, Open  ]],
 
@@ -1029,7 +1031,7 @@ Cell[BoxData[
    3.669659228506114*^9, 3.6699742301130867`*^9, 3.670065918356758*^9, 
    3.670133118637295*^9, 3.670669041127283*^9, 3.671875983911601*^9, 
    3.672119073953068*^9, 3.672940619528611*^9, 3.67740586358631*^9, 
-   3.680587488599718*^9, 3.6806684356526318`*^9}]
+   3.680587488599718*^9, 3.6806684356526318`*^9, 3.686980994405714*^9}]
 }, Open  ]]
 }, Open  ]],
 
@@ -1192,7 +1194,8 @@ Cell[BoxData[
   Function[BoxForm`e$, 
    MatrixForm[BoxForm`e$]]]], "Output",
  CellChangeTimes->{{3.680580583920278*^9, 3.680580605406693*^9}, 
-   3.680595774293099*^9, 3.6806684357130213`*^9, 3.680668874339039*^9}]
+   3.680595774293099*^9, 3.6806684357130213`*^9, 3.680668874339039*^9, 
+   3.68698099456258*^9}]
 }, Open  ]],
 
 Cell[BoxData[{
@@ -1431,7 +1434,8 @@ Cell[BoxData[
     Column], "\[NoBreak]", ")"}],
   Function[BoxForm`e$, 
    MatrixForm[BoxForm`e$]]]], "Output",
- CellChangeTimes->{3.680588860413761*^9, 3.680668435810075*^9}],
+ CellChangeTimes->{3.680588860413761*^9, 3.680668435810075*^9, 
+  3.6869809952471457`*^9}],
 
 Cell[BoxData[
  TagBox[
@@ -1509,7 +1513,8 @@ Cell[BoxData[
     Column], "\[NoBreak]", ")"}],
   Function[BoxForm`e$, 
    MatrixForm[BoxForm`e$]]]], "Output",
- CellChangeTimes->{3.680588860413761*^9, 3.680668435817225*^9}]
+ CellChangeTimes->{3.680588860413761*^9, 3.680668435810075*^9, 
+  3.6869809952565527`*^9}]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1595,7 +1600,7 @@ Cell[BoxData[
    MatrixForm[BoxForm`e$]]]], "Output",
  CellChangeTimes->{{3.680588957471343*^9, 3.680588974970539*^9}, 
    3.680589894643779*^9, {3.6805949906498747`*^9, 3.680594999731308*^9}, 
-   3.680595033365205*^9, 3.680668435877995*^9}],
+   3.680595033365205*^9, 3.680668435877995*^9, 3.6869809953840313`*^9}],
 
 Cell[BoxData[
  TagBox[
@@ -1659,7 +1664,7 @@ Cell[BoxData[
    MatrixForm[BoxForm`e$]]]], "Output",
  CellChangeTimes->{{3.680588957471343*^9, 3.680588974970539*^9}, 
    3.680589894643779*^9, {3.6805949906498747`*^9, 3.680594999731308*^9}, 
-   3.680595033365205*^9, 3.680668435885398*^9}]
+   3.680595033365205*^9, 3.680668435877995*^9, 3.686980995399887*^9}]
 }, Open  ]],
 
 Cell["\<\
@@ -1670,6 +1675,25 @@ Logarithmic negativity gives an upper bound to the distillable entanglement\
 Cell[CellGroupData[{
 
 Cell[BoxData[{
+ RowBox[{"\[Rho]", "=", 
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"(", 
+        RowBox[{"1", "-", "\[Sigma]"}], ")"}], "-", "p11"}], ",", "0", ",", 
+      "0", ",", "0"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"0", ",", 
+      RowBox[{"\[Sigma]", "-", "p10"}], ",", "c0110", ",", "0"}], "}"}], ",", 
+    
+    RowBox[{"{", 
+     RowBox[{"0", ",", 
+      RowBox[{"c0110", "\[Conjugate]"}], ",", "p10", ",", "0"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"0", ",", "0", ",", "0", ",", "p11"}], "}"}]}], 
+   "}"}]}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"\[Rho]pt", "=", 
    RowBox[{"PartialTranspose", "[", 
@@ -1682,28 +1706,19 @@ Cell[BoxData[{
     RowBox[{"FullSimplify", "[", 
      RowBox[{
       RowBox[{"Total", "[", 
-       RowBox[{"SingularValueList", "[", 
-        RowBox[{"\[Rho]pt", "/.", 
-         RowBox[{"{", 
-          RowBox[{
-           RowBox[{"c0001", "\[Rule]", "0"}], ",", 
-           RowBox[{"c0010", "\[Rule]", "0"}], ",", 
-           RowBox[{"c1011", "\[Rule]", "0"}], ",", 
-           RowBox[{"c0111", "\[Rule]", "0"}], ",", 
-           RowBox[{"c0011", "\[Rule]", "0"}]}], "}"}]}], "]"}], "]"}], ",", 
+       RowBox[{"SingularValueList", "[", "\[Rho]pt", "]"}], "]"}], ",", 
       RowBox[{"Assumptions", "\[Rule]", 
        RowBox[{"{", 
         RowBox[{
-         RowBox[{"p00", ">", "0"}], ",", 
-         RowBox[{"p10", ">", "0"}], ",", 
-         RowBox[{"p01", ">", "0"}], ",", 
-         RowBox[{"p11", ">", "0"}], ",", 
-         RowBox[{
-          RowBox[{"p00", "+", "p10", "+", "p01", "+", "p11"}], "==", "1"}], 
-         ",", 
+         RowBox[{"p11", ">=", "0"}], ",", 
+         RowBox[{"p10", "<=", "\[Sigma]"}], ",", 
+         RowBox[{"p10", ">=", "0"}], ",", 
+         RowBox[{"p11", "\[LessEqual]", 
+          RowBox[{"(", 
+           RowBox[{"1", "-", "\[Sigma]"}], ")"}]}], ",", 
          RowBox[{
           RowBox[{"{", "c0110", "}"}], "\[Element]", "Reals"}]}], "}"}]}]}], 
-     "]"}]}], "]"}]}]}], "Input",
+     "]"}]}], "]"}]}], "\[IndentingNewLine]"}], "Input",
  CellChangeTimes->{{3.6805893058437643`*^9, 3.680589346216954*^9}, {
    3.6805894165061827`*^9, 3.680589440265971*^9}, {3.680589492572978*^9, 
    3.680589515158057*^9}, {3.68059346496599*^9, 3.6805934658068523`*^9}, 
@@ -1712,67 +1727,109 @@ Cell[BoxData[{
    3.680596844264358*^9, 3.6805968541354427`*^9}, {3.680598711336788*^9, 
    3.6805988403085127`*^9}, {3.680599778226983*^9, 3.680599786183914*^9}, {
    3.680602222661827*^9, 3.680602230134726*^9}, {3.6806688971406527`*^9, 
-   3.6806689174338284`*^9}}],
+   3.6806689174338284`*^9}, {3.686981018199119*^9, 3.6869810296218033`*^9}, {
+   3.686981793721068*^9, 3.686981885369102*^9}, {3.686981964662373*^9, 
+   3.686981999992632*^9}}],
+
+Cell[BoxData[
+ TagBox[
+  RowBox[{"(", "\[NoBreak]", GridBox[{
+     {
+      RowBox[{"1", "-", "p11", "-", "\[Sigma]"}], "0", "0", "0"},
+     {"0", 
+      RowBox[{
+       RowBox[{"-", "p10"}], "+", "\[Sigma]"}], "c0110", "0"},
+     {"0", 
+      RowBox[{"Conjugate", "[", "c0110", "]"}], "p10", "0"},
+     {"0", "0", "0", "p11"}
+    },
+    GridBoxAlignment->{
+     "Columns" -> {{Center}}, "ColumnsIndexed" -> {}, "Rows" -> {{Baseline}}, 
+      "RowsIndexed" -> {}},
+    GridBoxSpacings->{"Columns" -> {
+        Offset[0.27999999999999997`], {
+         Offset[0.7]}, 
+        Offset[0.27999999999999997`]}, "ColumnsIndexed" -> {}, "Rows" -> {
+        Offset[0.2], {
+         Offset[0.4]}, 
+        Offset[0.2]}, "RowsIndexed" -> {}}], "\[NoBreak]", ")"}],
+  Function[BoxForm`e$, 
+   MatrixForm[BoxForm`e$]]]], "Output",
+ CellChangeTimes->{{3.680598768979721*^9, 3.680598792532947*^9}, 
+   3.6805988467935743`*^9, 3.68059979312274*^9, 3.680602243854303*^9, 
+   3.6806684464879837`*^9, {3.680668894660679*^9, 3.680668942055794*^9}, {
+   3.686981018948819*^9, 3.686981031233786*^9}, {3.686981873024548*^9, 
+   3.686981886395464*^9}, {3.686981976036913*^9, 3.686982000473744*^9}}],
 
 Cell[BoxData[
  TagBox[
   FractionBox[
    RowBox[{"Log", "[", 
-    RowBox[{"p01", "+", "p10", "+", 
+    RowBox[{"\[Sigma]", "+", 
      FractionBox[
-      SqrtBox[
-       RowBox[{
-        RowBox[{"2", " ", 
-         SuperscriptBox["c0110", "2"]}], "+", 
-        SuperscriptBox["p11", "2"], "+", 
-        SuperscriptBox[
-         RowBox[{"(", 
-          RowBox[{
-           RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", "p11"}], ")"}], 
-         "2"], "+", 
+      RowBox[{
+       SqrtBox[
         RowBox[{
-         RowBox[{"(", 
-          RowBox[{
-           RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], " ", 
-         SqrtBox[
-          RowBox[{
-           RowBox[{"4", " ", 
-            SuperscriptBox["c0110", "2"]}], "+", 
-           SuperscriptBox[
-            RowBox[{"(", 
-             RowBox[{
-              RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-              RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]]}]}]], 
-      SqrtBox["2"]], "+", 
-     FractionBox[
-      SqrtBox[
-       RowBox[{
-        RowBox[{"2", " ", 
-         SuperscriptBox["c0110", "2"]}], "+", 
-        SuperscriptBox["p00", "2"], "+", 
-        SuperscriptBox["p11", "2"], "+", 
-        SqrtBox[
-         RowBox[{
-          SuperscriptBox[
-           RowBox[{"(", 
-            RowBox[{
-             RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"], " ", 
+         RowBox[{"2", " ", 
+          SuperscriptBox["c0110", "2"]}], "+", 
+         RowBox[{"2", " ", 
+          SuperscriptBox["p11", "2"]}], "+", 
+         RowBox[{"2", " ", "p11", " ", 
           RowBox[{"(", 
            RowBox[{
-            RowBox[{"4", " ", 
-             SuperscriptBox["c0110", "2"]}], "+", 
-            SuperscriptBox[
-             RowBox[{"(", 
-              RowBox[{
-               RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-               RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], ")"}]}]]}]], 
+            RowBox[{"-", "1"}], "+", "\[Sigma]"}], ")"}]}], "-", 
+         RowBox[{
+          RowBox[{"(", 
+           RowBox[{
+            RowBox[{"-", "1"}], "+", "\[Sigma]"}], ")"}], " ", 
+          RowBox[{"(", 
+           RowBox[{"1", "-", "\[Sigma]", "+", 
+            SqrtBox[
+             RowBox[{
+              RowBox[{"4", " ", 
+               SuperscriptBox["c0110", "2"]}], "+", 
+              SuperscriptBox[
+               RowBox[{"(", 
+                RowBox[{
+                 RowBox[{"-", "1"}], "+", 
+                 RowBox[{"2", " ", "p11"}], "+", "\[Sigma]"}], ")"}], 
+               "2"]}]]}], ")"}]}]}]], "+", 
+       SqrtBox[
+        RowBox[{
+         RowBox[{"2", " ", 
+          SuperscriptBox["c0110", "2"]}], "+", 
+         RowBox[{"2", " ", 
+          SuperscriptBox["p11", "2"]}], "+", 
+         RowBox[{"2", " ", "p11", " ", 
+          RowBox[{"(", 
+           RowBox[{
+            RowBox[{"-", "1"}], "+", "\[Sigma]"}], ")"}]}], "+", 
+         RowBox[{
+          RowBox[{"(", 
+           RowBox[{
+            RowBox[{"-", "1"}], "+", "\[Sigma]"}], ")"}], " ", 
+          RowBox[{"(", 
+           RowBox[{
+            RowBox[{"-", "1"}], "+", "\[Sigma]", "+", 
+            SqrtBox[
+             RowBox[{
+              RowBox[{"4", " ", 
+               SuperscriptBox["c0110", "2"]}], "+", 
+              SuperscriptBox[
+               RowBox[{"(", 
+                RowBox[{
+                 RowBox[{"-", "1"}], "+", 
+                 RowBox[{"2", " ", "p11"}], "+", "\[Sigma]"}], ")"}], 
+               "2"]}]]}], ")"}]}]}]]}], 
       SqrtBox["2"]]}], "]"}], 
    RowBox[{"Log", "[", "2", "]"}]],
   Function[BoxForm`e$, 
    MatrixForm[BoxForm`e$]]]], "Output",
  CellChangeTimes->{{3.680598768979721*^9, 3.680598792532947*^9}, 
    3.6805988467935743`*^9, 3.68059979312274*^9, 3.680602243854303*^9, 
-   3.6806684464879837`*^9, {3.680668894660679*^9, 3.680668942055794*^9}}]
+   3.6806684464879837`*^9, {3.680668894660679*^9, 3.680668942055794*^9}, {
+   3.686981018948819*^9, 3.686981031233786*^9}, {3.686981873024548*^9, 
+   3.686981886395464*^9}, {3.686981976036913*^9, 3.686982004494876*^9}}]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1835,48 +1892,66 @@ Cell[BoxData[
   GraphicsBox[{{{}, {}, 
      {RGBColor[0.368417, 0.506779, 0.709798], AbsoluteThickness[1.6], Opacity[
       1.], LineBox[CompressedData["
-1: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
-
+1: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
+ZS8v4+Ct+LLwYAAG/wOVOPE2
        "]]}, 
      {RGBColor[0.880722, 0.611041, 0.142051], AbsoluteThickness[1.6], Opacity[
       1.], LineBox[CompressedData["
@@ -1913,6 +1988,7 @@ zC7SVuFfoQWFGg==
    Axes->{True, True},
    AxesLabel->{None, None},
    AxesOrigin->{0, 0},
+   BaseStyle->(FontSize -> 13),
    DisplayFunction->Identity,
    Frame->{{False, False}, {False, False}},
    FrameLabel->{{None, None}, {None, None}},
@@ -1924,7 +2000,7 @@ zC7SVuFfoQWFGg==
    Method->{
     "DefaultBoundaryStyle" -> Automatic, "DefaultMeshStyle" -> 
      AbsolutePointSize[6], "ScalingFunctions" -> None},
-   PlotRange->{{0, 1}, {-1.6017132519074588`*^-16, 0.8441956498194502}},
+   PlotRange->{{0, 1}, {-5.44582505648537*^-15, 0.8441956498194502}},
    PlotRangeClipping->True,
    PlotRangePadding->{{
       Scaled[0.02], 
@@ -1937,7 +2013,7 @@ zC7SVuFfoQWFGg==
  CellChangeTimes->{
   3.680599066649598*^9, 3.6805991001939373`*^9, 3.680602932954329*^9, 
    3.680603013005455*^9, 3.680603081575501*^9, {3.6806032266942596`*^9, 
-   3.6806032409957333`*^9}, 3.680668446681279*^9}]
+   3.6806032409957333`*^9}, 3.680668446681279*^9, 3.686981019414695*^9}]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1988,779 +2064,13 @@ Cell[BoxData[
   3.680669091793103*^9}, {3.680674418782398*^9, 3.680674487778672*^9}}],
 
 Cell[BoxData[
- TagBox[
-  RowBox[{"\[Sqrt]", 
-   RowBox[{"(", 
-    RowBox[{
-     FractionBox[
-      RowBox[{"2", " ", 
-       SuperscriptBox["c0110", "2"], " ", 
-       SuperscriptBox[
-        RowBox[{"(", 
-         RowBox[{
-          FractionBox[
-           RowBox[{"1", "+", 
-            FractionBox[
-             RowBox[{
-              RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], 
-             SqrtBox[
-              RowBox[{
-               RowBox[{"4", " ", 
-                SuperscriptBox["c0110", "2"]}], "+", 
-               SuperscriptBox[
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                  RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]]]}], 
-           SqrtBox[
-            RowBox[{
-             RowBox[{"2", " ", 
-              SuperscriptBox["c0110", "2"]}], "+", 
-             SuperscriptBox["p11", "2"], "+", 
-             SuperscriptBox[
-              RowBox[{"(", 
-               RowBox[{
-                RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", "p11"}], 
-               ")"}], "2"], "+", 
-             RowBox[{
-              RowBox[{"(", 
-               RowBox[{
-                RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], " ", 
-              SqrtBox[
-               RowBox[{
-                RowBox[{"4", " ", 
-                 SuperscriptBox["c0110", "2"]}], "+", 
-                SuperscriptBox[
-                 RowBox[{"(", 
-                  RowBox[{
-                   RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                   RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]]}]}]]], "+", 
-          FractionBox[
-           RowBox[{"1", "+", 
-            FractionBox[
-             SuperscriptBox[
-              RowBox[{"(", 
-               RowBox[{
-                RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"], 
-             SqrtBox[
-              RowBox[{
-               SuperscriptBox[
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"], 
-               " ", 
-               RowBox[{"(", 
-                RowBox[{
-                 RowBox[{"4", " ", 
-                  SuperscriptBox["c0110", "2"]}], "+", 
-                 SuperscriptBox[
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], ")"}]}]]]}], 
-           SqrtBox[
-            RowBox[{
-             RowBox[{"2", " ", 
-              SuperscriptBox["c0110", "2"]}], "+", 
-             SuperscriptBox["p00", "2"], "+", 
-             SuperscriptBox["p11", "2"], "+", 
-             SqrtBox[
-              RowBox[{
-               SuperscriptBox[
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"], 
-               " ", 
-               RowBox[{"(", 
-                RowBox[{
-                 RowBox[{"4", " ", 
-                  SuperscriptBox["c0110", "2"]}], "+", 
-                 SuperscriptBox[
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], 
-                ")"}]}]]}]]]}], ")"}], "2"], " ", 
-       SuperscriptBox["\[Delta]c0110", "2"]}], 
-      RowBox[{
-       SuperscriptBox[
-        RowBox[{"(", 
-         RowBox[{"p01", "+", "p10", "+", 
-          FractionBox[
-           SqrtBox[
-            RowBox[{
-             RowBox[{"2", " ", 
-              SuperscriptBox["c0110", "2"]}], "+", 
-             SuperscriptBox["p11", "2"], "+", 
-             SuperscriptBox[
-              RowBox[{"(", 
-               RowBox[{
-                RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", "p11"}], 
-               ")"}], "2"], "+", 
-             RowBox[{
-              RowBox[{"(", 
-               RowBox[{
-                RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], " ", 
-              SqrtBox[
-               RowBox[{
-                RowBox[{"4", " ", 
-                 SuperscriptBox["c0110", "2"]}], "+", 
-                SuperscriptBox[
-                 RowBox[{"(", 
-                  RowBox[{
-                   RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                   RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]]}]}]], 
-           SqrtBox["2"]], "+", 
-          FractionBox[
-           SqrtBox[
-            RowBox[{
-             RowBox[{"2", " ", 
-              SuperscriptBox["c0110", "2"]}], "+", 
-             SuperscriptBox["p00", "2"], "+", 
-             SuperscriptBox["p11", "2"], "+", 
-             SqrtBox[
-              RowBox[{
-               SuperscriptBox[
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"], 
-               " ", 
-               RowBox[{"(", 
-                RowBox[{
-                 RowBox[{"4", " ", 
-                  SuperscriptBox["c0110", "2"]}], "+", 
-                 SuperscriptBox[
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], ")"}]}]]}]], 
-           SqrtBox["2"]]}], ")"}], "2"], " ", 
-       SuperscriptBox[
-        RowBox[{"Log", "[", "2", "]"}], "2"]}]], "+", 
-     RowBox[{
-      RowBox[{"(", 
-       RowBox[{
-        SuperscriptBox["p00", "2"], " ", 
-        SuperscriptBox["\[Delta]p00", "2"]}], ")"}], "/", 
-      RowBox[{"(", 
-       RowBox[{"2", " ", 
-        RowBox[{"(", 
-         RowBox[{
-          RowBox[{"2", " ", 
-           SuperscriptBox["c0110", "2"]}], "+", 
-          SuperscriptBox["p00", "2"], "+", 
-          SuperscriptBox["p11", "2"], "+", 
-          SqrtBox[
-           RowBox[{
-            SuperscriptBox[
-             RowBox[{"(", 
-              RowBox[{
-               RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"], " ", 
-            RowBox[{"(", 
-             RowBox[{
-              RowBox[{"4", " ", 
-               SuperscriptBox["c0110", "2"]}], "+", 
-              SuperscriptBox[
-               RowBox[{"(", 
-                RowBox[{
-                 RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                 RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], ")"}]}]]}], 
-         ")"}], " ", 
-        SuperscriptBox[
-         RowBox[{"(", 
-          RowBox[{"p01", "+", "p10", "+", 
-           FractionBox[
-            SqrtBox[
-             RowBox[{
-              RowBox[{"2", " ", 
-               SuperscriptBox["c0110", "2"]}], "+", 
-              SuperscriptBox["p11", "2"], "+", 
-              SuperscriptBox[
-               RowBox[{"(", 
-                RowBox[{
-                 RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", "p11"}], 
-                ")"}], "2"], "+", 
-              RowBox[{
-               RowBox[{"(", 
-                RowBox[{
-                 RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], " ", 
-               SqrtBox[
-                RowBox[{
-                 RowBox[{"4", " ", 
-                  SuperscriptBox["c0110", "2"]}], "+", 
-                 SuperscriptBox[
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]]}]}]], 
-            SqrtBox["2"]], "+", 
-           FractionBox[
-            SqrtBox[
-             RowBox[{
-              RowBox[{"2", " ", 
-               SuperscriptBox["c0110", "2"]}], "+", 
-              SuperscriptBox["p00", "2"], "+", 
-              SuperscriptBox["p11", "2"], "+", 
-              SqrtBox[
-               RowBox[{
-                SuperscriptBox[
-                 RowBox[{"(", 
-                  RowBox[{
-                   RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"], 
-                " ", 
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"4", " ", 
-                   SuperscriptBox["c0110", "2"]}], "+", 
-                  SuperscriptBox[
-                   RowBox[{"(", 
-                    RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], ")"}]}]]}]], 
-            SqrtBox["2"]]}], ")"}], "2"], " ", 
-        SuperscriptBox[
-         RowBox[{"Log", "[", "2", "]"}], "2"]}], ")"}]}], "+", 
-     RowBox[{
-      RowBox[{"(", 
-       RowBox[{
-        SuperscriptBox[
-         RowBox[{"(", 
-          RowBox[{"8", "+", 
-           FractionBox[
-            RowBox[{"2", " ", 
-             SqrtBox["2"], " ", 
-             RowBox[{"(", 
-              RowBox[{
-               RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], " ", 
-             RowBox[{"(", 
-              RowBox[{
-               RowBox[{"4", " ", 
-                SuperscriptBox["c0110", "2"]}], "+", 
-               RowBox[{
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], " ", 
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                  RowBox[{"2", " ", "p11"}]}], ")"}]}], "+", 
-               SuperscriptBox[
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                  RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], ")"}]}], 
-            RowBox[{
-             SqrtBox[
-              RowBox[{
-               SuperscriptBox[
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"], 
-               " ", 
-               RowBox[{"(", 
-                RowBox[{
-                 RowBox[{"4", " ", 
-                  SuperscriptBox["c0110", "2"]}], "+", 
-                 SuperscriptBox[
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], ")"}]}]], " ", 
-             SqrtBox[
-              RowBox[{
-               RowBox[{"2", " ", 
-                SuperscriptBox["c0110", "2"]}], "+", 
-               SuperscriptBox["p00", "2"], "+", 
-               SuperscriptBox["p11", "2"], "+", 
-               SqrtBox[
-                RowBox[{
-                 SuperscriptBox[
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"],
-                  " ", 
-                 RowBox[{"(", 
-                  RowBox[{
-                   RowBox[{"4", " ", 
-                    SuperscriptBox["c0110", "2"]}], "+", 
-                   SuperscriptBox[
-                    RowBox[{"(", 
-                    RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], 
-                  ")"}]}]]}]]}]], "+", 
-           FractionBox[
-            RowBox[{"4", " ", 
-             SqrtBox["2"], " ", 
-             RowBox[{"(", 
-              RowBox[{
-               RowBox[{"2", " ", 
-                SuperscriptBox["c0110", "2"]}], "+", 
-               RowBox[{
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", "p11"}], 
-                 ")"}], " ", 
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                  RowBox[{"2", " ", "p11"}], "+", 
-                  SqrtBox[
-                   RowBox[{
-                    RowBox[{"4", " ", 
-                    SuperscriptBox["c0110", "2"]}], "+", 
-                    SuperscriptBox[
-                    RowBox[{"(", 
-                    RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]]}], ")"}]}]}], 
-              ")"}]}], 
-            RowBox[{
-             SqrtBox[
-              RowBox[{
-               RowBox[{"4", " ", 
-                SuperscriptBox["c0110", "2"]}], "+", 
-               SuperscriptBox[
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                  RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]], " ", 
-             SqrtBox[
-              RowBox[{
-               RowBox[{"2", " ", 
-                SuperscriptBox["c0110", "2"]}], "+", 
-               SuperscriptBox["p11", "2"], "+", 
-               SuperscriptBox[
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", "p11"}], 
-                 ")"}], "2"], "+", 
-               RowBox[{
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], " ", 
-                SqrtBox[
-                 RowBox[{
-                  RowBox[{"4", " ", 
-                   SuperscriptBox["c0110", "2"]}], "+", 
-                  SuperscriptBox[
-                   RowBox[{"(", 
-                    RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]]}]}]]}]]}], 
-          ")"}], "2"], " ", 
-        SuperscriptBox["\[Delta]p01", "2"]}], ")"}], "/", 
-      RowBox[{"(", 
-       RowBox[{"64", " ", 
-        SuperscriptBox[
-         RowBox[{"(", 
-          RowBox[{"p01", "+", "p10", "+", 
-           FractionBox[
-            SqrtBox[
-             RowBox[{
-              RowBox[{"2", " ", 
-               SuperscriptBox["c0110", "2"]}], "+", 
-              SuperscriptBox["p11", "2"], "+", 
-              SuperscriptBox[
-               RowBox[{"(", 
-                RowBox[{
-                 RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", "p11"}], 
-                ")"}], "2"], "+", 
-              RowBox[{
-               RowBox[{"(", 
-                RowBox[{
-                 RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], " ", 
-               SqrtBox[
-                RowBox[{
-                 RowBox[{"4", " ", 
-                  SuperscriptBox["c0110", "2"]}], "+", 
-                 SuperscriptBox[
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]]}]}]], 
-            SqrtBox["2"]], "+", 
-           FractionBox[
-            SqrtBox[
-             RowBox[{
-              RowBox[{"2", " ", 
-               SuperscriptBox["c0110", "2"]}], "+", 
-              SuperscriptBox["p00", "2"], "+", 
-              SuperscriptBox["p11", "2"], "+", 
-              SqrtBox[
-               RowBox[{
-                SuperscriptBox[
-                 RowBox[{"(", 
-                  RowBox[{
-                   RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"], 
-                " ", 
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"4", " ", 
-                   SuperscriptBox["c0110", "2"]}], "+", 
-                  SuperscriptBox[
-                   RowBox[{"(", 
-                    RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], ")"}]}]]}]], 
-            SqrtBox["2"]]}], ")"}], "2"], " ", 
-        SuperscriptBox[
-         RowBox[{"Log", "[", "2", "]"}], "2"]}], ")"}]}], "+", 
-     RowBox[{
-      RowBox[{"(", 
-       RowBox[{
-        SuperscriptBox[
-         RowBox[{"(", 
-          RowBox[{"8", "+", 
-           FractionBox[
-            RowBox[{"2", " ", 
-             SqrtBox["2"], " ", 
-             RowBox[{"(", 
-              RowBox[{
-               RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], " ", 
-             RowBox[{"(", 
-              RowBox[{
-               RowBox[{"4", " ", 
-                SuperscriptBox["c0110", "2"]}], "+", 
-               RowBox[{
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], " ", 
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                  RowBox[{"2", " ", "p11"}]}], ")"}]}], "+", 
-               SuperscriptBox[
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                  RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], ")"}]}], 
-            RowBox[{
-             SqrtBox[
-              RowBox[{
-               SuperscriptBox[
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"], 
-               " ", 
-               RowBox[{"(", 
-                RowBox[{
-                 RowBox[{"4", " ", 
-                  SuperscriptBox["c0110", "2"]}], "+", 
-                 SuperscriptBox[
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], ")"}]}]], " ", 
-             SqrtBox[
-              RowBox[{
-               RowBox[{"2", " ", 
-                SuperscriptBox["c0110", "2"]}], "+", 
-               SuperscriptBox["p00", "2"], "+", 
-               SuperscriptBox["p11", "2"], "+", 
-               SqrtBox[
-                RowBox[{
-                 SuperscriptBox[
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"],
-                  " ", 
-                 RowBox[{"(", 
-                  RowBox[{
-                   RowBox[{"4", " ", 
-                    SuperscriptBox["c0110", "2"]}], "+", 
-                   SuperscriptBox[
-                    RowBox[{"(", 
-                    RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], 
-                  ")"}]}]]}]]}]], "+", 
-           FractionBox[
-            RowBox[{"4", " ", 
-             SqrtBox["2"], " ", 
-             RowBox[{"(", 
-              RowBox[{
-               RowBox[{"2", " ", 
-                SuperscriptBox["c0110", "2"]}], "+", 
-               RowBox[{
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", "p11"}], 
-                 ")"}], " ", 
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                  RowBox[{"2", " ", "p11"}], "+", 
-                  SqrtBox[
-                   RowBox[{
-                    RowBox[{"4", " ", 
-                    SuperscriptBox["c0110", "2"]}], "+", 
-                    SuperscriptBox[
-                    RowBox[{"(", 
-                    RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]]}], ")"}]}]}], 
-              ")"}]}], 
-            RowBox[{
-             SqrtBox[
-              RowBox[{
-               RowBox[{"4", " ", 
-                SuperscriptBox["c0110", "2"]}], "+", 
-               SuperscriptBox[
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                  RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]], " ", 
-             SqrtBox[
-              RowBox[{
-               RowBox[{"2", " ", 
-                SuperscriptBox["c0110", "2"]}], "+", 
-               SuperscriptBox["p11", "2"], "+", 
-               SuperscriptBox[
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", "p11"}], 
-                 ")"}], "2"], "+", 
-               RowBox[{
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], " ", 
-                SqrtBox[
-                 RowBox[{
-                  RowBox[{"4", " ", 
-                   SuperscriptBox["c0110", "2"]}], "+", 
-                  SuperscriptBox[
-                   RowBox[{"(", 
-                    RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]]}]}]]}]]}], 
-          ")"}], "2"], " ", 
-        SuperscriptBox["\[Delta]p10", "2"]}], ")"}], "/", 
-      RowBox[{"(", 
-       RowBox[{"64", " ", 
-        SuperscriptBox[
-         RowBox[{"(", 
-          RowBox[{"p01", "+", "p10", "+", 
-           FractionBox[
-            SqrtBox[
-             RowBox[{
-              RowBox[{"2", " ", 
-               SuperscriptBox["c0110", "2"]}], "+", 
-              SuperscriptBox["p11", "2"], "+", 
-              SuperscriptBox[
-               RowBox[{"(", 
-                RowBox[{
-                 RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", "p11"}], 
-                ")"}], "2"], "+", 
-              RowBox[{
-               RowBox[{"(", 
-                RowBox[{
-                 RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], " ", 
-               SqrtBox[
-                RowBox[{
-                 RowBox[{"4", " ", 
-                  SuperscriptBox["c0110", "2"]}], "+", 
-                 SuperscriptBox[
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]]}]}]], 
-            SqrtBox["2"]], "+", 
-           FractionBox[
-            SqrtBox[
-             RowBox[{
-              RowBox[{"2", " ", 
-               SuperscriptBox["c0110", "2"]}], "+", 
-              SuperscriptBox["p00", "2"], "+", 
-              SuperscriptBox["p11", "2"], "+", 
-              SqrtBox[
-               RowBox[{
-                SuperscriptBox[
-                 RowBox[{"(", 
-                  RowBox[{
-                   RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"], 
-                " ", 
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"4", " ", 
-                   SuperscriptBox["c0110", "2"]}], "+", 
-                  SuperscriptBox[
-                   RowBox[{"(", 
-                    RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], ")"}]}]]}]], 
-            SqrtBox["2"]]}], ")"}], "2"], " ", 
-        SuperscriptBox[
-         RowBox[{"Log", "[", "2", "]"}], "2"]}], ")"}]}], "+", 
-     FractionBox[
-      RowBox[{
-       SuperscriptBox[
-        RowBox[{"(", 
-         RowBox[{
-          FractionBox[
-           RowBox[{"2", " ", 
-            RowBox[{"(", 
-             RowBox[{
-              RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-              RowBox[{"2", " ", "p11"}], "+", 
-              FractionBox[
-               RowBox[{
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], " ", 
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                  RowBox[{"2", " ", "p11"}]}], ")"}]}], 
-               SqrtBox[
-                RowBox[{
-                 RowBox[{"4", " ", 
-                  SuperscriptBox["c0110", "2"]}], "+", 
-                 SuperscriptBox[
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]]]}], ")"}]}], 
-           SqrtBox[
-            RowBox[{
-             RowBox[{"2", " ", 
-              SuperscriptBox["c0110", "2"]}], "+", 
-             SuperscriptBox["p11", "2"], "+", 
-             SuperscriptBox[
-              RowBox[{"(", 
-               RowBox[{
-                RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", "p11"}], 
-               ")"}], "2"], "+", 
-             RowBox[{
-              RowBox[{"(", 
-               RowBox[{
-                RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], " ", 
-              SqrtBox[
-               RowBox[{
-                RowBox[{"4", " ", 
-                 SuperscriptBox["c0110", "2"]}], "+", 
-                SuperscriptBox[
-                 RowBox[{"(", 
-                  RowBox[{
-                   RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                   RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]]}]}]]], "+", 
-          FractionBox[
-           RowBox[{"2", " ", 
-            RowBox[{"(", 
-             RowBox[{"p11", "+", 
-              FractionBox[
-               RowBox[{
-                SuperscriptBox[
-                 RowBox[{"(", 
-                  RowBox[{
-                   RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"], 
-                " ", 
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                  RowBox[{"2", " ", "p11"}]}], ")"}]}], 
-               SqrtBox[
-                RowBox[{
-                 SuperscriptBox[
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"],
-                  " ", 
-                 RowBox[{"(", 
-                  RowBox[{
-                   RowBox[{"4", " ", 
-                    SuperscriptBox["c0110", "2"]}], "+", 
-                   SuperscriptBox[
-                    RowBox[{"(", 
-                    RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], ")"}]}]]]}], 
-             ")"}]}], 
-           SqrtBox[
-            RowBox[{
-             RowBox[{"2", " ", 
-              SuperscriptBox["c0110", "2"]}], "+", 
-             SuperscriptBox["p00", "2"], "+", 
-             SuperscriptBox["p11", "2"], "+", 
-             SqrtBox[
-              RowBox[{
-               SuperscriptBox[
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"], 
-               " ", 
-               RowBox[{"(", 
-                RowBox[{
-                 RowBox[{"4", " ", 
-                  SuperscriptBox["c0110", "2"]}], "+", 
-                 SuperscriptBox[
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], 
-                ")"}]}]]}]]]}], ")"}], "2"], " ", 
-       SuperscriptBox["\[Delta]p11", "2"]}], 
-      RowBox[{"8", " ", 
-       SuperscriptBox[
-        RowBox[{"(", 
-         RowBox[{"p01", "+", "p10", "+", 
-          FractionBox[
-           SqrtBox[
-            RowBox[{
-             RowBox[{"2", " ", 
-              SuperscriptBox["c0110", "2"]}], "+", 
-             SuperscriptBox["p11", "2"], "+", 
-             SuperscriptBox[
-              RowBox[{"(", 
-               RowBox[{
-                RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", "p11"}], 
-               ")"}], "2"], "+", 
-             RowBox[{
-              RowBox[{"(", 
-               RowBox[{
-                RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], " ", 
-              SqrtBox[
-               RowBox[{
-                RowBox[{"4", " ", 
-                 SuperscriptBox["c0110", "2"]}], "+", 
-                SuperscriptBox[
-                 RowBox[{"(", 
-                  RowBox[{
-                   RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                   RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}]]}]}]], 
-           SqrtBox["2"]], "+", 
-          FractionBox[
-           SqrtBox[
-            RowBox[{
-             RowBox[{"2", " ", 
-              SuperscriptBox["c0110", "2"]}], "+", 
-             SuperscriptBox["p00", "2"], "+", 
-             SuperscriptBox["p11", "2"], "+", 
-             SqrtBox[
-              RowBox[{
-               SuperscriptBox[
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"-", "1"}], "+", "p01", "+", "p10"}], ")"}], "2"], 
-               " ", 
-               RowBox[{"(", 
-                RowBox[{
-                 RowBox[{"4", " ", 
-                  SuperscriptBox["c0110", "2"]}], "+", 
-                 SuperscriptBox[
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{"-", "1"}], "+", "p01", "+", "p10", "+", 
-                    RowBox[{"2", " ", "p11"}]}], ")"}], "2"]}], ")"}]}]]}]], 
-           SqrtBox["2"]]}], ")"}], "2"], " ", 
-       SuperscriptBox[
-        RowBox[{"Log", "[", "2", "]"}], "2"]}]]}], ")"}]}],
+ TagBox["$Aborted",
   Function[BoxForm`e$, 
    MatrixForm[BoxForm`e$]]]], "Output",
  CellChangeTimes->{{3.68066845548415*^9, 3.680668502951758*^9}, 
    3.68066871993027*^9, {3.680668836078849*^9, 3.680668843758336*^9}, {
    3.680669013687045*^9, 3.680669094577221*^9}, {3.680674480838191*^9, 
-   3.680674488021016*^9}}]
+   3.680674488021016*^9}, 3.686981024072548*^9}]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -3408,81 +2718,79 @@ Notebook[{
 Cell[CellGroupData[{
 Cell[580, 22, 151, 2, 64, "Section"],
 Cell[734, 26, 218, 5, 28, "Input"],
+Cell[955, 33, 648, 12, 46, "Input"],
 Cell[CellGroupData[{
-Cell[977, 35, 648, 12, 46, "Input"],
-Cell[1628, 49, 289, 4, 22, "Print"]
-}, Open  ]],
+Cell[1628, 49, 120, 1, 44, "Subsection"],
+Cell[1751, 52, 1274, 33, 69, "Input"],
 Cell[CellGroupData[{
-Cell[1954, 58, 120, 1, 44, "Subsection"],
-Cell[2077, 61, 1274, 33, 69, "Input"],
-Cell[CellGroupData[{
-Cell[3376, 98, 62, 1, 28, "Input"],
-Cell[3441, 101, 29750, 813, 346, "Print"]
+Cell[3050, 89, 62, 1, 28, "Input"],
+Cell[3115, 92, 30009, 824, 346, "Print"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[33240, 920, 107, 1, 44, "Subsection"],
-Cell[33350, 923, 279, 5, 30, "Text"],
-Cell[33632, 930, 276, 7, 28, "Input"],
-Cell[33911, 939, 438, 12, 28, "Input"],
-Cell[34352, 953, 561, 14, 28, "Input"],
-Cell[34916, 969, 934, 26, 28, "Input"],
-Cell[35853, 997, 207, 4, 30, "Text"],
+Cell[33173, 922, 107, 1, 44, "Subsection"],
+Cell[33283, 925, 279, 5, 30, "Text"],
+Cell[33565, 932, 276, 7, 28, "Input"],
+Cell[33844, 941, 438, 12, 28, "Input"],
+Cell[34285, 955, 561, 14, 28, "Input"],
+Cell[34849, 971, 934, 26, 28, "Input"],
+Cell[35786, 999, 207, 4, 30, "Text"],
 Cell[CellGroupData[{
-Cell[36085, 1005, 630, 15, 28, "Input"],
-Cell[36718, 1022, 494, 9, 28, "Output"]
+Cell[36018, 1007, 630, 15, 28, "Input"],
+Cell[36651, 1024, 516, 9, 28, "Output"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[37261, 1037, 108, 1, 44, "Subsection"],
-Cell[37372, 1040, 3823, 91, 140, "Input"]
+Cell[37216, 1039, 108, 1, 44, "Subsection"],
+Cell[37327, 1042, 3823, 91, 140, "Input"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[41244, 1137, 96, 1, 64, "Section"],
+Cell[41199, 1139, 96, 1, 64, "Section"],
 Cell[CellGroupData[{
-Cell[41365, 1142, 845, 23, 30, "Input"],
-Cell[42213, 1167, 1093, 27, 81, "Output"]
+Cell[41320, 1144, 845, 23, 30, "Input"],
+Cell[42168, 1169, 1118, 28, 81, "Output"]
 }, Open  ]],
-Cell[43321, 1197, 1226, 32, 63, "Input"],
+Cell[43301, 1200, 1226, 32, 63, "Input"],
 Cell[CellGroupData[{
-Cell[44572, 1233, 4496, 122, 179, "Input"],
-Cell[49071, 1357, 2833, 76, 113, "Output"],
-Cell[51907, 1435, 2833, 76, 113, "Output"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[54777, 1516, 713, 17, 46, "Input"],
-Cell[55493, 1535, 2093, 62, 113, "Output"],
-Cell[57589, 1599, 2093, 62, 113, "Output"]
-}, Open  ]],
-Cell[59697, 1664, 165, 3, 30, "Text"],
-Cell[CellGroupData[{
-Cell[59887, 1671, 1852, 43, 80, "Input"],
-Cell[61742, 1716, 1980, 58, 89, "Output"]
+Cell[44552, 1236, 4496, 122, 179, "Input"],
+Cell[49051, 1360, 2860, 77, 113, "Output"],
+Cell[51914, 1439, 2860, 77, 113, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[63759, 1779, 1833, 51, 101, "Input"],
-Cell[65595, 1832, 5566, 107, 237, "Output"]
+Cell[54811, 1521, 713, 17, 46, "Input"],
+Cell[55527, 1540, 2117, 62, 113, "Output"],
+Cell[57647, 1604, 2115, 62, 113, "Output"]
+}, Open  ]],
+Cell[59777, 1669, 165, 3, 30, "Text"],
+Cell[CellGroupData[{
+Cell[59967, 1676, 2269, 55, 82, "Input"],
+Cell[62239, 1733, 1173, 28, 139, "Output"],
+Cell[63415, 1763, 2439, 68, 79, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[71198, 1944, 1552, 43, 75, "Input"],
-Cell[72753, 1989, 29069, 773, 1639, "Output"]
+Cell[65891, 1836, 1833, 51, 101, "Input"],
+Cell[67727, 1889, 6739, 126, 236, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[101859, 2767, 1400, 30, 46, "Input"],
-Cell[103262, 2799, 225, 6, 28, "Output"],
-Cell[103490, 2807, 228, 6, 28, "Output"]
+Cell[74503, 2020, 1552, 43, 75, "Input"],
+Cell[76058, 2065, 355, 7, 28, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[76450, 2077, 1400, 30, 46, "Input"],
+Cell[77853, 2109, 225, 6, 28, "Output"],
+Cell[78081, 2117, 228, 6, 28, "Output"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[103767, 2819, 100, 1, 64, "Section"],
+Cell[78358, 2129, 100, 1, 64, "Section"],
 Cell[CellGroupData[{
-Cell[103892, 2824, 852, 28, 46, "Input"],
-Cell[104747, 2854, 14854, 257, 229, "Output"]
+Cell[78483, 2134, 852, 28, 46, "Input"],
+Cell[79338, 2164, 14854, 257, 229, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[119638, 3116, 888, 28, 46, "Input"],
-Cell[120529, 3146, 13846, 240, 237, "Output"]
+Cell[94229, 2426, 888, 28, 46, "Input"],
+Cell[95120, 2456, 13846, 240, 237, "Output"]
 }, Open  ]]
 }, Open  ]]
 }
