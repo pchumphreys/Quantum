@@ -87,7 +87,7 @@ id1=SparseArray@IdentityMatrix[2^(pos-1)];
 id2=SparseArray@IdentityMatrix[2^(numQ-pos)];
 map=SparseArray@KroneckerProduct[id1,SparseArray@PauliMatrix[#],id2]&/@Range[0,3];
 
-Re[Sum[p[[i]]*map[[i]].\[Rho].ConjugateTranspose[map[[i]]],{i,1,4}]]
+Sum[p[[i]]*map[[i]].\[Rho].ConjugateTranspose[map[[i]]],{i,1,4}]
 ];
 
 
