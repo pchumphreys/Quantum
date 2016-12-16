@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.15)  15 DEC 2016 15:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.15)  16 DEC 2016 13:00
 entering extended mode
 **./ComparingEntanglementStrategies.tex
 (ComparingEntanglementStrategies.tex
@@ -452,7 +452,7 @@ Package pdftex.def Info: Figures/MultiplexingDiagram.pdf used on input line 41.
 (pdftex.def)             Requested size: 341.43306pt x 201.28923pt.
  [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <./Figures/Multiple
 xingDiagram.pdf>]
-<Figures/AmbAndNearValuesRateVsDistance.pdf, id=58, 890.32625pt x 260.975pt>
+<Figures/AmbAndNearValuesRateVsDistance.pdf, id=55, 890.32625pt x 260.975pt>
 File: Figures/AmbAndNearValuesRateVsDistance.pdf Graphic file (type pdf)
 
 <use Figures/AmbAndNearValuesRateVsDistance.pdf>
@@ -460,28 +460,27 @@ Package pdftex.def Info: Figures/AmbAndNearValuesRateVsDistance.pdf used on inp
 ut line 92.
 (pdftex.def)             Requested size: 455.24408pt x 133.44193pt.
 
-<Figures/AmbAndNearValuesRateVsMemories.pdf, id=59, 890.32625pt x 260.975pt>
+<Figures/AmbAndNearValuesRateVsMemories.pdf, id=56, 890.32625pt x 260.975pt>
 File: Figures/AmbAndNearValuesRateVsMemories.pdf Graphic file (type pdf)
 
 <use Figures/AmbAndNearValuesRateVsMemories.pdf>
 Package pdftex.def Info: Figures/AmbAndNearValuesRateVsMemories.pdf used on inp
 ut line 102.
 (pdftex.def)             Requested size: 455.24408pt x 133.44193pt.
+ [3] [4 <./Figures/AmbAndNearValuesRateVsDistance.pdf> <./Figures/AmbAndNearVal
+uesRateVsMemories.pdf
 
-<Figures/FidVsRateFixedDistance.pdf, id=60, 522.95375pt x 247.92625pt>
+pdfTeX warning: pdflatex (file ./Figures/AmbAndNearValuesRateVsMemories.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+>] <Figures/FidVsRateFixedDistance.pdf, id=97, 890.32625pt x 259.97125pt>
 File: Figures/FidVsRateFixedDistance.pdf Graphic file (type pdf)
 
 <use Figures/FidVsRateFixedDistance.pdf>
 Package pdftex.def Info: Figures/FidVsRateFixedDistance.pdf used on input line 
 112.
-(pdftex.def)             Requested size: 284.52756pt x 134.89203pt.
- [3 <./Figures/AmbAndNearValuesRateVsDistance.pdf>] (ComparingEntanglementStrat
-egies.bbl) [4 <./Figures/AmbAndNearValuesRateVsMemories.pdf> <./Figures/FidVsRa
-teFixedDistance.pdf
-
-pdfTeX warning: pdflatex (file ./Figures/FidVsRateFixedDistance.pdf): PDF inclu
-sion: multiple pdfs with page group included in a single page
->]
+(pdftex.def)             Requested size: 455.24408pt x 132.9287pt.
+ (ComparingEntanglementStrategies.bbl)
+[5 <./Figures/FidVsRateFixedDistance.pdf>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
  (ComparingEntanglementStrategies.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 118.
@@ -491,13 +490,13 @@ Package rerunfilecheck Info: File `ComparingEntanglementStrategies.out' has not
 (rerunfilecheck)             Checksum: B429743B75D17E508C884781E5062B4E;428.
  ) 
 Here is how much of TeX's memory you used:
- 8497 strings out of 493333
- 118252 string characters out of 3139223
- 224288 words of memory out of 3000000
+ 8498 strings out of 493333
+ 118259 string characters out of 3139223
+ 227798 words of memory out of 3000000
  11905 multiletter control sequences out of 15000+200000
  13821 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,11n,35p,796b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,11n,35p,1081b,362s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKT
@@ -505,9 +504,9 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmr8.pfb>
-Output written on ComparingEntanglementStrategies.pdf (4 pages, 231402 bytes).
+Output written on ComparingEntanglementStrategies.pdf (5 pages, 191631 bytes).
 PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
+ 152 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
  77 words of extra memory for PDF output out of 10000 (max. 10000000)
 

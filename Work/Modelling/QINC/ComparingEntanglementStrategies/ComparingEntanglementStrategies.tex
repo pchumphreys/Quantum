@@ -23,7 +23,7 @@
 \end{abstract}
 %\maketitle
 
-Recent progress in the generation, manipulation and storage of distant entangled quantum states has opened up an avenue to the construction of a small-scale quantum network over metropolitan scale distances in the near future. This motivates the exploration of different potential methods for the efficient generation of entangled links between nodes. Here we have examined three different protocols using both semi-analytical and Monte Carlo methods. 
+Blah blah.. Recent progress in the generation, manipulation and storage of distant entangled quantum states has opened up an avenue to the construction of a small-scale quantum network over metropolitan scale distances in the near future. This motivates the exploration of different potential methods for the efficient generation of entangled links between nodes. Here we have examined three different protocols using both semi-analytical and Monte Carlo methods. 
 
 \section{Protocols}
 
@@ -39,7 +39,7 @@ In the standard version of this scheme, the clock rate is limited by the classic
 \begin{figure}[htbp]
 \begin{center}
 \includegraphics[width=12.0cm]{MultiplexingDiagram.pdf}
-\caption{}
+\caption{A random figure I started making at some point.}
 \label{fig:MultiplexingDiagram}
 \end{center}
 \end{figure}
@@ -60,7 +60,7 @@ In our models we have considered two different regimes of parameters, as shown i
 \hline
 Variable & Description & Ambitious value & Near-term value \\ \hline
 $d$ & separation between nodes in km & & \\
-$n$ & number of memories (including NV) & 4 & 2 \\
+$n$ & number of memories (including NV) & 3 & 2 \\
 $\eta$ & speed of light in fibre & 0.2 km/$\mu$s & 0.2 km/$\mu$s \\
 $\eta$ & fibre attenuation at telecom wavelengths & 0.2 dB/km & 0.2 dB/km \\
 $p_\text{fc}$ & frequency conversion efficiency & 0.3 & 0.1 \\
@@ -85,22 +85,22 @@ $p_m$ & SPDC source photon-pair emission probability  & 0.1 & 0.01 \\ \hline
 
 \subsection{Observations}
 
-1) Even for the highly ambitious values, storing in memory takes a long time, comparable to the time required for information to propagate from one node to the other. This limits the number of memories that can be usefully utilised, as can be seen in Fig.~\ref{fig:AmbAndNearValuesRateVsDistance}, in which the dashed red line denotes the distance below which the time required to store states in the memories is longer than the communication time between the nodes. For distances less than this, there is no point in using this number of memories. This is particularly damaging to the Kwiat scheme, since this scheme relies on being able to make memory attempts to generate entanglement during one communication cycle.
+1) Even for the highly ambitious values, storing in memory takes a long time, comparable to the time required for information to propagate from one node to the other. This limits the number of memories that can be usefully utilised, as can be seen in Fig.~\ref{fig:AmbAndNearValuesRateVsDistance}, in which the dashed red line denotes the distance below which the time required to store states in the memories is longer than the communication time between the nodes. For distances less than this, there is no point in using this number of memories. This is particularly damaging to the Kwiat scheme, since this scheme relies on being able to make many attempts to generate entanglement during one communication cycle.
 
 \begin{figure}[htbp]
 \begin{center}
 \includegraphics[width=16.0cm]{AmbAndNearValuesRateVsDistance.pdf}
-\caption{}
+\caption{a) Rate of entanglement generation as a function of distance using different multiplexed schemes with the 'near-term' parameters. For all distances, the multiplexed purification scheme outperforms Barrett and Kok. The effectiveness of the Kwiat scheme is highly dependent on the entangled photon pair generation efficiency. The solid line shows the results for a pair generation probability of 0.1, the dashed line for 0.01. The latter is more consistent with the performance of current sources (some actual research needed on this point). Filled circles show results from Monte Carlo simulations of the same protocols (expected to be more accurate since fewer approximations needed). The vertical red line shows the distance below which all time is used for storing in memories. b) Same plots, for 'ambitious' parameters. For distances greater than 20 km, the multiplexed purification schemes outperform Barrett and Kok.}
 \label{fig:AmbAndNearValuesRateVsDistance}
 \end{center}
 \end{figure}
 
-2) This is apparent when fixing the distance between the nodes and changing the number of available memories. For both the ambitious and the near-term values, the Kwiat scheme derives no benefit from additional memories (in essence, the chance of a successful event in one communication round is very low for both regimes (numbers), and so having additional memories with which to store successful events is of no benefit). For the near-term values, there is no benefit for BK or Purification, since, as the red dashed line shows, beyond 2 memories, all time is taken up with storing states. In contrast, for the ambitious values, there is a benefit to increasing the number of memories.
+2) This is apparent when fixing the distance between the nodes and changing the number of available memories. For both the ambitious and the near-term values, the Kwiat scheme derives no benefit from additional memories (in essence, the chance of a successful event in one communication round is very low for both regimes (numbers needed), and so having additional memories with which to store successful events is of no benefit). For the near-term values, there is no benefit for BK or Purification, since, as the red dashed line shows, beyond 2 memories, all time is taken up with storing states. In contrast, for the ambitious values, there is a benefit to increasing the number of memories.
 
 \begin{figure}[htbp]
 \begin{center}
 \includegraphics[width=16.0cm]{AmbAndNearValuesRateVsMemories.pdf}
-\caption{}
+\caption{a) Rate of entanglement generation as a function of number of memories using different multiplexed schemes with the 'near-term' parameters at a fixed distance of 50 km. The vertical red line shows the number of memories beyond which all time is used for storing in memories. b) Same plots, for 'ambitious' parameters.}
 \label{fig:AmbAndNearValuesRateVsMemories}
 \end{center}
 \end{figure}
@@ -109,8 +109,8 @@ $p_m$ & SPDC source photon-pair emission probability  & 0.1 & 0.01 \\ \hline
 
 \begin{figure}[htbp]
 \begin{center}
-\includegraphics[width=10.0cm]{FidVsRateFixedDistance.pdf}
-\caption{}
+\includegraphics[width=16.0cm]{FidVsRateFixedDistance.pdf}
+\caption{By bounding the acceptable average fidelity, it is possible to compromise between the achievable rate and the fidelity. This is shown for a fixed distance of 50 km and a) the 'near-term' parameters, b) the 'ambitious' parameters.}
 \label{fig:FidVsRateFixedDistance}
 \end{center}
 \end{figure}

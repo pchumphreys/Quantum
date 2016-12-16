@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex ComparingEntanglementStrategies"] 1481811044 "ComparingEntanglementStrategies.aux" "ComparingEntanglementStrategies.bbl" "ComparingEntanglementStrategies" 1481811044
+["bibtex ComparingEntanglementStrategies"] 1481889601 "ComparingEntanglementStrategies.aux" "ComparingEntanglementStrategies.bbl" "ComparingEntanglementStrategies" 1481889602
   "C:/Program Files/MiKTeX 2.9/bibtex/bst/revtex/apsrev4-1.bst" 1281384065 71518 fec93f06df0c073f83d2330456bd19c2 ""
-  "ComparingEntanglementStrategies.aux" 1481811044 2312 fdc92d4173b72835de0b9af1645b2e9d ""
+  "ComparingEntanglementStrategies.aux" 1481889602 5336 d3f12a36712142fd954ab02c5a07d148 ""
   "ComparingEntanglementStrategies.bcf" 0 -1 0 ""
-  "ComparingEntanglementStrategiesNotes.bib" 1481811044 105 48ad29797468f16e2853d8797278d7af ""
+  "ComparingEntanglementStrategiesNotes.bib" 1481889602 105 48ad29797468f16e2853d8797278d7af ""
   (generated)
-  "ComparingEntanglementStrategies.bbl"
   "ComparingEntanglementStrategies.blg"
-["pdflatex"] 1481811044 "ComparingEntanglementStrategies.tex" "ComparingEntanglementStrategies.pdf" "ComparingEntanglementStrategies" 1481811044
+  "ComparingEntanglementStrategies.bbl"
+["pdflatex"] 1481889601 "ComparingEntanglementStrategies.tex" "ComparingEntanglementStrategies.pdf" "ComparingEntanglementStrategies" 1481889602
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1233951848 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm" 1233951848 1120 200be8b775682cdf80acad4be5ef57e4 ""
   "C:/Program Files/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -90,18 +90,18 @@
   "C:/Program Files/MiKTeX 2.9/tex/latex/xcolor/xcolor.sty" 1463131981 57049 34128738f682d033422ca125f82e5d62 ""
   "C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map" 1481810988 80582 9cef1253b78cef4463d0d2e4896f0af4 ""
   "C:/Users/TUD278094/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1481809836 3822710 343080a758e1eb2b276079774d128890 ""
-  "ComparingEntanglementStrategies.aux" 1481811044 2312 fdc92d4173b72835de0b9af1645b2e9d ""
-  "ComparingEntanglementStrategies.bbl" 1481811044 2036 c789b8b2e2ff60989c671635ad8473c2 "bibtex ComparingEntanglementStrategies"
-  "ComparingEntanglementStrategies.out" 1481811044 428 1f51c05d00215307dad279be0c6495e7 ""
-  "ComparingEntanglementStrategies.tex" 1481811042 6966 b55ef295a20115f550b260bb1a0e9294 ""
-  "Figures/AmbAndNearValuesRateVsDistance.pdf" 1480695017 38912 c26400d0e75d1c30b909cac3cc01463b ""
-  "Figures/AmbAndNearValuesRateVsMemories.pdf" 1480695017 39169 f8438bece963e2e815eea22f224bd305 ""
-  "Figures/FidVsRateFixedDistance.pdf" 1480695017 41023 43fdff7488e56cd5785059ba1cdfdfd4 ""
+  "ComparingEntanglementStrategies.aux" 1481889602 5336 d3f12a36712142fd954ab02c5a07d148 ""
+  "ComparingEntanglementStrategies.bbl" 1481889601 2036 c789b8b2e2ff60989c671635ad8473c2 "bibtex ComparingEntanglementStrategies"
+  "ComparingEntanglementStrategies.out" 1481889602 428 1f51c05d00215307dad279be0c6495e7 ""
+  "ComparingEntanglementStrategies.tex" 1481889600 8497 348b391b9ee3cbf4e4ece3233fd1caa5 ""
+  "Figures/AmbAndNearValuesRateVsDistance.pdf" 1481889039 26509 2720d2bd591238daa47a031ee46c40b8 ""
+  "Figures/AmbAndNearValuesRateVsMemories.pdf" 1481889086 22164 c0eefad2bebec818310f256da2fd3eef ""
+  "Figures/FidVsRateFixedDistance.pdf" 1481889182 26185 10330a5b9d2307de529d65da4dcddc72 ""
   "Figures/MultiplexingDiagram.pdf" 1480695017 63365 11dec1b1ebe594cc8686454d682200f3 ""
   "header.tex" 1480695017 2580 9f818677a4b6b6f1fb52d14a956ea103 ""
   (generated)
-  "ComparingEntanglementStrategies.aux"
   "ComparingEntanglementStrategiesNotes.bib"
   "ComparingEntanglementStrategies.out"
-  "ComparingEntanglementStrategies.log"
+  "ComparingEntanglementStrategies.aux"
   "ComparingEntanglementStrategies.pdf"
+  "ComparingEntanglementStrategies.log"
