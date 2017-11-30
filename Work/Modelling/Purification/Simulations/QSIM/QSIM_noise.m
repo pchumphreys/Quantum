@@ -34,8 +34,6 @@ Begin["`Private`"];
 
 $location = $InputFileName;
 qsim=DirectoryName[$InputFileName];
-Needs["QSIM`superoperators`",FileNameJoin[{qsim,"QSIM_superoperators.m"}]]
-
 
 
 sparseNoise[list_]:=
