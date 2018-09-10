@@ -1,6 +1,6 @@
 ## Summary 
 
-This directory contains a few different useful bits of code for simulating various quantum systems, along with some notes I made when I first began working with nitrogen-vacancy (NV) centres.
+This repository contains a few different useful bits of code for simulating various quantum systems, along with some notes I made when I first began working with nitrogen-vacancy (NV) centres.
 
 ### Contents
 *[Background on NV centres](Background%20on%20NV%20centres) - these are some brief notes on the physics of NV centres, and their properties for quantum information processing
