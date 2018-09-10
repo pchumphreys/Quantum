@@ -1,5 +1,5 @@
 ## Electron_nuclear_sim.py - A module to calculate 13C nuclear and NV spin dynamics.
-### By Peter Humphreys, 2016-2018 (inspiration and some early code from a previous approach by Tim Taminiau)
+*By Peter Humphreys, 2016-2018 (inspiration and some early code from a previous approach by Tim Taminiau)*
 
 This module runs simulations of the nitrogen-vacancy centre electronic state and its interactions with carbon 13 nuclear spins, along with, if desired, the nitrogen nuclear spin of the NV. 
 
