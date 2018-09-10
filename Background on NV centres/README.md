@@ -1,1 +1,0 @@
-This directory contains some brief notes on the physics of NV centres, and their properties for quantum information processing
