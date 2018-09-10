@@ -24,10 +24,8 @@ desr_seq.re(theta = 0,phi=1.0)`
 4) Now one can, for example, sweep the NV mw detuning and measure the e state 
 
 `for i,freq in enumerate(freq_range):
-
     noisy_NV_system.set_NV_detuning(freq)
     noisy_NV_system.recalculate()
-
     nv_expm.apply_gates(desr_seq)
     results[i] = nv_expm.measure_e()
     nv_expm.reset_output_state()`
