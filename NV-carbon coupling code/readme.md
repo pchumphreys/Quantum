@@ -9,16 +9,20 @@ A set of examples of the use of the code are given in [NV_C13_simulation_example
 
 Here is the basic code structure:
 1) Define an NV_system, this is the base class that holds all the physics
+
 `nvs = noisy_NV_system(mw_duration=180e-9,carbon_params = [],inc_nitrogen=False,pulse_shape='Hermite')`
 
 2) Make an experiment object, this holds the state of the sytem, the desired gate sequence, and allows for quick and easy measurements
+
 `nv_expm = NV_experiment(nvs)`
 
 3) Make a gate_sequence, here with one simple gate
+
 `desr_seq = nv_expm.gate_sequence()
 desr_seq.re(theta = 0,phi=1.0)`
 
 4) Now one can, for example, sweep the NV mw detuning and measure the e state 
+
 `for i,freq in enumerate(freq_range):
 
     noisy_NV_system.set_NV_detuning(freq)
