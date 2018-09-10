@@ -1,0 +1,1 @@
+This directory contains two bits of old mathematica code from my Oxford days. One is a library of functions useful when working with continuous variables, while the other is a series of calculations for quantum metrology using squeezed states and photon-number resolving detectors. This has useful functions for working with a photon number basis representation of squeezed states.
