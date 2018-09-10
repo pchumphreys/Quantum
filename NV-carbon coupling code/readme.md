@@ -10,12 +10,12 @@ A set of examples of the use of the code are given in [NV_C13_simulation_example
 Here is the basic code structure:
 1) Define an NV_system, this is the base class that holds all the physics
 ```python
-nvs = noisy_NV_system(mw_duration=180e-9,carbon_params = [],inc_nitrogen=False,pulse_shape='Hermite')`
+nvs = noisy_NV_system(mw_duration=180e-9,carbon_params = [],inc_nitrogen=False,pulse_shape='Hermite')
 ```
 
 2) Make an experiment object, this holds the state of the sytem, the desired gate sequence, and allows for quick and easy measurements
 ```python
-nv_expm = NV_experiment(nvs)`
+nv_expm = NV_experiment(nvs)
 ```
 
 3) Make a gate_sequence, here with one simple gate
