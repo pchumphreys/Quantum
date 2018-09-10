@@ -21,7 +21,7 @@ nv_expm = NV_experiment(nvs)
 3) Make a gate_sequence, here with one simple gate
 ```python
 desr_seq = nv_expm.gate_sequence()
-desr_seq.re(theta = 0,phi=1.0)`
+desr_seq.re(theta = 0,phi=1.0)
 ```
 
 4) Now one can, for example, sweep the NV mw detuning and measure the e state 
